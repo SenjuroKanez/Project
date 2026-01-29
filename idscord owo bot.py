@@ -13,7 +13,7 @@ phrases = [
     "w cf 111",
     "w s 121"
 ]
-intervals = [5, 7, 8, 10, 12, 13, 15]  # possible wait times in seconds
+intervals = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]  # possible wait times in seconds
 stop_key = "esc"
 
 # --- LOOP ---
